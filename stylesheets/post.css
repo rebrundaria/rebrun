@@ -1,13 +1,3 @@
-body {
-  /* background-image: url('Wikimedium-Post.jpg'); */
-  background-repeat: no-repeat;
-  background-position: center top;
-  font-family: 'PT Sans', sans-serif;
-}
-
-a {
-  color: inherit;
-}
 
 article {
   padding-bottom: 80px;
@@ -202,7 +192,7 @@ article i {
 
 @media (max-width: 1024px) {
   article img {
-    width: 100%;
+    width: 100% ;
   }
 }
 

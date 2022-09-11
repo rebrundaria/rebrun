@@ -1,0 +1,33 @@
+body.posts {
+  display: flex;
+  justify-content: center;
+  padding: 100px 0 50px;
+  background: #FAFAFA;
+}
+
+section {
+
+}
+
+section div {
+width: 740px;
+
+background: #FFFFFF;
+border: 1px solid rgba(0, 0, 0, 0.1);
+box-shadow: 0px 1px 4px rgba(0, 0, 0, 0.05);
+border-radius: 3px;
+}
+
+section h2 {
+  font-family: 'PT Sans', sans-serif;
+  font-weight: bold;
+  font-size: 28px;
+  line-height: 34px;
+  color: rgba(0, 0, 0, 0.8);
+}
+
+section p {
+  font-size: 22px;
+  line-height: 32px;
+  color: rgba(0, 0, 0, 0.4);
+}
